@@ -10,3 +10,5 @@
 *.pdf
 *.txt
 *.gif
+
+/tools
